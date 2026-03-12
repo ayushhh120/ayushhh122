@@ -10,7 +10,11 @@
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
+<p>
+Currently, my learning and development focus is on Machine Learning, Generative AI and AI Agents. I am actively exploring how modern AI systems work, including model behavior, intelligent automation, and integrating AI capabilities into real applications.
+</p>
+
+<p>
 🧠 Learning to think in code.
 
 I believe programming is not just writing syntax — it’s about structuring thoughts clearly and precisely. My approach is to take complex or vague problems, break them down into smaller logical parts, and express the solution cleanly through code.
@@ -56,11 +60,8 @@ I focus on learning how to think like an engineer and showing that thinking thro
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind,langchain,langgraph,numpy,pandas,skitlearn" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind,pytorch,sklearn" />
 </td>
-
-
-
 </tr>
 <tr>
 <td width="50%" align="center">
@@ -72,7 +73,7 @@ I focus on learning how to think like an engineer and showing that thinking thro
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman" />
 </td>
 </tr>
 </table>
@@ -87,7 +88,7 @@ I focus on learning how to think like an engineer and showing that thinking thro
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayushhh120&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
