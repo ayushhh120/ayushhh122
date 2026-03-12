@@ -82,17 +82,6 @@ I focus on learning how to think like an engineer and showing that thinking thro
 </p>
 
 
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ayushhh120&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
 ---
 
 ## ❤️ Support Me
