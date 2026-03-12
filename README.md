@@ -21,7 +21,7 @@ I focus on learning how to think like an engineer and showing that thinking thro
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:ayushhh120@gmail.com"><img src="https://img.shields.io/badge/📧_ayushhh120@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -33,31 +33,14 @@ I focus on learning how to think like an engineer and showing that thinking thro
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/ayushhh120/">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="www.linkedin.com/in/ayush-dwivedi-a7aa1b2b8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
 </p>
-
 
   <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
@@ -72,14 +55,14 @@ I focus on learning how to think like an engineer and showing that thinking thro
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=js,python,c++,typescript" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind,langchain,langgraph,numpy,pandas,skitlearn" />
 </td>
 
 
