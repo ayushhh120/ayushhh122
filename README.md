@@ -13,17 +13,18 @@
 <p>
 ✨ Currently, my learning and development focus is on Machine Learning, Generative AI and AI Agents. I am actively exploring how modern AI systems work, including model behavior, intelligent automation, and integrating AI capabilities into real applications.
 </p>
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+<hr>
 
 <p>
-🧠 Learning to think in code.
+🧠 Learning to think in code...
 
 I believe programming is not just writing syntax — it’s about structuring thoughts clearly and precisely. My approach is to take complex or vague problems, break them down into smaller logical parts, and express the solution cleanly through code.
 
 I focus on learning how to think like an engineer and showing that thinking through working systems.
-  </p>
+</p>
 
-  <p>
+<p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:ayushhh120@gmail.com"><img src="https://img.shields.io/badge/📧_ayushhh120@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
