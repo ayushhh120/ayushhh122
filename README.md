@@ -11,9 +11,9 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 <p>
-Currently, my learning and development focus is on Machine Learning, Generative AI and AI Agents. I am actively exploring how modern AI systems work, including model behavior, intelligent automation, and integrating AI capabilities into real applications.
+✨ Currently, my learning and development focus is on Machine Learning, Generative AI and AI Agents. I am actively exploring how modern AI systems work, including model behavior, intelligent automation, and integrating AI capabilities into real applications.
 </p>
-
+...
 <p>
 🧠 Learning to think in code.
 
