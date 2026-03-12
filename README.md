@@ -5,8 +5,7 @@
   Hi, I'm <strong>Ayush Dwivedi</strong>
 </h1>
 
-<h3>I'm an AI & Full-Stack Developer focused on building Agentic AI systems,
-, and AI-powered products.</h3>
+<h3>I'm an AI & Full-Stack Developer focused on building Agentic AI systems,AI-powered products.</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -22,17 +21,12 @@ I focus on learning how to think like an engineer and showing that thinking thro
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:ayushhh120@gmail.com"><img src="https://img.shields.io/badge/📧_ayushhh120@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
   <a href="https://github.com/ayushhh120/">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
@@ -55,7 +49,7 @@ I focus on learning how to think like an engineer and showing that thinking thro
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=js,python,c++,typescript" />
+ <img src="https://skillicons.dev/icons?i=js,python,cpp,typescript" />
 <br/><br/>
 
 </td>
